@@ -1,7 +1,7 @@
 ### Hi, I'm Paulo Henrique Serafim
 
-- 🌱 I currently study Javascript
-- 📝 First period of analysis and systems development 
+- 💻 I currently study Javascript
+- 👨‍🎓 First period of analysis and systems development 
 
 
  <div>
