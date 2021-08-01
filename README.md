@@ -1,7 +1,7 @@
-### Olá, eu sou Paulo Henrique Serafim
+### Hi, I'm Paulo Henrique Serafim
 
-- 🌱 Atualmente estudo Javascript
-- 📝 Primeiro período de Análise e Desenvolvimento de Sistemas
+- 🌱 I currently study Javascript
+- 📝 First period of analysis and systems development 
 
 
  <div>
