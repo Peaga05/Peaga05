@@ -1,6 +1,6 @@
 ### Hi, I'm Paulo Henrique Serafim
 
-- 👨‍🎓 Fifth  period of analysis and systems development 
+- 👨‍🎓 Sixth  period of analysis and systems development 
 
 
  <div>
