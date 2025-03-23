@@ -1,5 +1,5 @@
-👋 Hello, I'm Paulo Henrique Serafim!
-🎓 I have a degree in Systems Analysis and Development and work as a software developer. Currently, I specialize in:
+👋 Hello, I'm Paulo Henrique Serafim!<br>
+🎓 I have a degree in Systems Analysis and Development and work as a software developer. Currently, I specialize in:<br>
 
 🚀 Back-end: C# with ASP.NET
 📱 Front-end: Angular and Flutter
