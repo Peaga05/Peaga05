@@ -1,7 +1,10 @@
-### Hi, I'm Paulo Henrique Serafim
+👋 Hello, I'm Paulo Henrique Serafim!
+🎓 I have a degree in Systems Analysis and Development and work as a software developer. Currently, I specialize in:
 
-- 👨‍🎓 Sixth  period of analysis and systems development 
+🚀 Back-end: C# with ASP.NET
+📱 Front-end: Angular and Flutter
 
+I enjoy learning new technologies and continuously improving my development skills. Feel free to explore my projects and contribute!
 
  <div>
   <a href="https://github.com/Peaga05">
